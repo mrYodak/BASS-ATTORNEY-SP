@@ -1,0 +1,9 @@
+{
+  "extensionId": {
+    "name": "ngapi",
+    "path": "extensions/ngapi/ngapi.yy"
+  },
+  "resourceVersion": "1.0",
+  "resourceType": "GMExtensionConfigSet",
+  "configurables": null
+}

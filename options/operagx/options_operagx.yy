@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "1.0.0.9",
+  "option_operagx_next_version": "1.0.0.10",
+  "option_operagx_game_name": "BASS ATTORNEY",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "e70596bd-0c73-4c18-890a-4eafb63b7985",
+  "option_operagx_team_name": "GATTACACA studio",
+  "option_operagx_team_id": "5f2b9667-e5bd-4fc7-ae1c-c866a6165658",
+  "option_operagx_editUrl": "https://create.gx.games/game/e70596bd-0c73-4c18-890a-4eafb63b7985/edit",
+  "option_operagx_internalShareUrl": "https://gx.games/games/w8cdsg/bass-attorney/tracks/fb18837b-ec26-426c-923e-9ddf6405e38e/",
+  "option_operagx_publicShareUrl": "https://gx.games/games/w8cdsg/bass-attorney/",
+}
